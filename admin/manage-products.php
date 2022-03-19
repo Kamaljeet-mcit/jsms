@@ -31,7 +31,7 @@ echo "<script>window.location.href='manage-products.php'</script>";
                     <div class="container-fluid px-4">
                         <h1 class="mt-4">Manage Products</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                            <li class="breadcrumb-item"><a href="dashboard.php">Dashboard</a></li>
                             <li class="breadcrumb-item active">Manage Products</li>
                         </ol>
                         <div class="card mb-4">
